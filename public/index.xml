@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redback Racing UNSW</title>
+    <link>http://redbackracing63.com/</link>
+    <description>Recent content on Redback Racing UNSW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Mar 2018 15:58:09 +1100</lastBuildDate>
+    
+	<atom:link href="http://redbackracing63.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Car Design Deep-Dive</title>
+      <link>http://redbackracing63.com/post/design/</link>
+      <pubDate>Sat, 10 Mar 2018 15:58:09 +1100</pubDate>
+      
+      <guid>http://redbackracing63.com/post/design/</guid>
+      <description>Here is some stuff about the car. Pretty dope.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://redbackracing63.com/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/</guid>
+      <description>Redback Racing{{partial &#34;header.html&#34;}}MenuHomeTeamSponsorsCloseRedback RacingUNSW&#39;s Formula SAE racing team
+About usWelcome to the official website of the UNSW Redback Racing Formula SAE Team. We are a student society that designs,manufactures and tests an open-wheel Formula SAE specification racecar. As a Sydney-based team, we compete in theannual FSAE-Australiasia Competition held each December, which pitches our car against those made by other universitiesin the Asia-Pacific region.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://redbackracing63.com/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsors/</guid>
+      <description>Our Sponsors - Redback Racing{{partial &#34;header.html&#34;}}Our SponsorsSponsorship makes our team possible.
+Red Sponsors{{ range $.Site.Pages.ByTitle }}{{ if (in .Params.categories &#34;red&#34;) }}{{ end }} {{ end }}Gold Sponsors{{ range $.Site.Pages.ByTitle }}{{ if (in .Params.categories &#34;gold&#34;) }}{{ end }} {{ end }}Silver Sponsors{{ range $.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://redbackracing63.com/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/team/</guid>
+      <description>Our Team - Redback Racing{{partial &#34;header.html&#34;}}Our Team{{ range $.Site.Pages.ByTitle }}{{ if (in .Params.categories &#34;team&#34;) }}{{.Title}}{{.Params.Bio}}
+{{ end }} {{ end }}</description>
+    </item>
+    
+    <item>
+      <title>Accurate Repetition</title>
+      <link>http://redbackracing63.com/sponsor/accurate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/accurate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aprilia</title>
+      <link>http://redbackracing63.com/sponsor/aprilia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/aprilia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atlassian</title>
+      <link>http://redbackracing63.com/sponsor/atlassian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/atlassian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autodesk</title>
+      <link>http://redbackracing63.com/sponsor/autodesk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/autodesk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autofrost</title>
+      <link>http://redbackracing63.com/sponsor/autofrost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/autofrost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autohaus</title>
+      <link>http://redbackracing63.com/sponsor/autohaus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/autohaus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automotive Superstore</title>
+      <link>http://redbackracing63.com/sponsor/automotivess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/automotivess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ayres</title>
+      <link>http://redbackracing63.com/sponsor/ayrescom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/ayrescom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bankstown Paceway</title>
+      <link>http://redbackracing63.com/sponsor/bankstown_paceway/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/bankstown_paceway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bob Bobson</title>
+      <link>http://redbackracing63.com/team/bob_bobson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/team/bob_bobson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calm Aluminium</title>
+      <link>http://redbackracing63.com/sponsor/calm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/calm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capral</title>
+      <link>http://redbackracing63.com/sponsor/capral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/capral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heat Treatment Australia</title>
+      <link>http://redbackracing63.com/sponsor/heat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/heat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hi-Tec Batteries</title>
+      <link>http://redbackracing63.com/sponsor/hitec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/hitec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry NSW</title>
+      <link>http://redbackracing63.com/sponsor/industrynsw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/industrynsw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JKF Aero</title>
+      <link>http://redbackracing63.com/sponsor/jkf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/jkf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jessica Jessicason</title>
+      <link>http://redbackracing63.com/team/jessica_jessicason/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/team/jessica_jessicason/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labjack</title>
+      <link>http://redbackracing63.com/sponsor/labjack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/labjack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MW Ignitions</title>
+      <link>http://redbackracing63.com/sponsor/mwignitions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/mwignitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>McConaghy Boats</title>
+      <link>http://redbackracing63.com/sponsor/mcconaghy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/mcconaghy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motoring.com.au</title>
+      <link>http://redbackracing63.com/sponsor/motoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/motoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Newington College</title>
+      <link>http://redbackracing63.com/sponsor/newington/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/newington/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part Sales</title>
+      <link>http://redbackracing63.com/sponsor/partsales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/partsales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peak Powdercoating</title>
+      <link>http://redbackracing63.com/sponsor/peakpowder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/peakpowder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenix Industries</title>
+      <link>http://redbackracing63.com/sponsor/phenix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/phenix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picton Karting Track</title>
+      <link>http://redbackracing63.com/sponsor/pikton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/pikton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Race Engineering Academy</title>
+      <link>http://redbackracing63.com/sponsor/rea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/rea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ricardo Software</title>
+      <link>http://redbackracing63.com/sponsor/ricardo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/ricardo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rivtec</title>
+      <link>http://redbackracing63.com/sponsor/rivtec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/rivtec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schaeffler</title>
+      <link>http://redbackracing63.com/sponsor/schaeffler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/schaeffler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scorch</title>
+      <link>http://redbackracing63.com/sponsor/scorch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/scorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sell My Car</title>
+      <link>http://redbackracing63.com/sponsor/sellmycar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/sellmycar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sorensen Engineering</title>
+      <link>http://redbackracing63.com/sponsor/sorenson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/sorenson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Southern Fasteners</title>
+      <link>http://redbackracing63.com/sponsor/southernfasteners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/southernfasteners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sprockets Australia</title>
+      <link>http://redbackracing63.com/sponsor/sprockets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/sprockets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stratton Finance</title>
+      <link>http://redbackracing63.com/sponsor/stratton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/stratton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swadlings</title>
+      <link>http://redbackracing63.com/sponsor/swadlings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/swadlings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sydney Dragway</title>
+      <link>http://redbackracing63.com/sponsor/sydney_dragway/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/sydney_dragway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TE connectivity</title>
+      <link>http://redbackracing63.com/sponsor/te/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textreme</title>
+      <link>http://redbackracing63.com/sponsor/textreme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/textreme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trenz</title>
+      <link>http://redbackracing63.com/sponsor/trenz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/trenz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

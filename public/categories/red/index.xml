@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Red on Redback Racing UNSW</title>
+    <link>http://redbackracing63.com/categories/red/</link>
+    <description>Recent content in Red on Redback Racing UNSW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://redbackracing63.com/categories/red/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autodesk</title>
+      <link>http://redbackracing63.com/sponsor/autodesk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/autodesk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Race Engineering Academy</title>
+      <link>http://redbackracing63.com/sponsor/rea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/sponsor/rea/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

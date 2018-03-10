@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Redback Racing UNSW</title>
+    <link>http://redbackracing63.com/categories/blog/</link>
+    <description>Recent content in Blog on Redback Racing UNSW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Mar 2018 15:58:09 +1100</lastBuildDate>
+    
+	<atom:link href="http://redbackracing63.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Car Design Deep-Dive</title>
+      <link>http://redbackracing63.com/post/design/</link>
+      <pubDate>Sat, 10 Mar 2018 15:58:09 +1100</pubDate>
+      
+      <guid>http://redbackracing63.com/post/design/</guid>
+      <description>Here is some stuff about the car. Pretty dope.</description>
+    </item>
+    
+  </channel>
+</rss>

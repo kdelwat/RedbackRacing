@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on Redback Racing UNSW</title>
+    <link>http://redbackracing63.com/categories/team/</link>
+    <description>Recent content in Team on Redback Racing UNSW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://redbackracing63.com/categories/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bob Bobson</title>
+      <link>http://redbackracing63.com/team/bob_bobson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/team/bob_bobson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jessica Jessicason</title>
+      <link>http://redbackracing63.com/team/jessica_jessicason/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redbackracing63.com/team/jessica_jessicason/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+<html>
+
+<body>
+	{{ .Title }} {{ .Content }}
+	<ul class="contents">
+		{{ range .Paginator.Pages }}
+		<li>{{.Title}} {{ .Permalink }}</li>
+		{{ end }}
+	</ul>
+</body>
+
+</html>
