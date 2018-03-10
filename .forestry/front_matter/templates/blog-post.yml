@@ -1,0 +1,37 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: DD/MM/YYYY
+    required: true
+- type: text
+  name: description
+  label: description
+  description: A one-line summary of the post.
+  config:
+    required: true
+- type: file
+  name: image
+  label: cover image
+- type: text
+  name: type
+  label: type
+  config:
+    required: true
+  hidden: true
+  default: '"page"'
+- type: text
+  label: categories
+  name: categories
+  hidden: true
+  config:
+    required: true
+  default: '["categories"]'
