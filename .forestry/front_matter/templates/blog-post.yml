@@ -1,4 +1,6 @@
 ---
+pages:
+- posts/a-sick-post.md
 hide_body: false
 fields:
 - type: text
