@@ -1,0 +1,26 @@
+---
+hide_body: false
+fields:
+- type: text
+  label: Title
+  name: title
+  description: Company name
+  config:
+    required: true
+- type: text
+  label: URL
+  name: siteurl
+  description: URL of the company website
+  config:
+    required: true
+- type: file
+  name: image
+  label: Logo
+  description: Company logo
+- type: text
+  name: categories
+  label: Level
+  description: One of "red", "gold", "silver", or "bronze"
+  config:
+    required: true
+  default: '["silver"]'
