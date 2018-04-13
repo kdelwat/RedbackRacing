@@ -1,0 +1,23 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Name
+  config:
+    required: true
+- type: file
+  name: headshot
+  label: Head shot
+- type: text
+  name: role
+  label: Role
+  config:
+    required: true
+- type: text
+  name: categories
+  label: categories
+  hidden: true
+  config:
+    required: true
+  default: '["team"]'
