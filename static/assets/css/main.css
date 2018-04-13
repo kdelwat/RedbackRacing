@@ -17,6 +17,14 @@
 	max-width: 100%;
 }
 
+#four {
+	margin: 0;
+}
+
+#four.wrapper.alt:after {
+	height: 0;
+}
+
 /*
 	Solid State by HTML5 UP
 	html5up.net | @ajlkn
@@ -3114,7 +3122,7 @@
 /* Banner */
 
 	#banner {
-		padding: 10em 0 4.75em 0 ;
+		padding: 10em 0 2em 0 ;
 	}
 
 		#banner .inner {
@@ -3410,7 +3418,7 @@
 		}
 
 		.wrapper .inner {
-			padding: 3em 0 1em 0 ;
+			padding: 2em 0 1em 0 ;
 			margin: 0 auto;
 			width: 55em;
 		}
@@ -3737,7 +3745,7 @@
 /* Footer */
 
 	#footer .inner {
-		padding: 5em 0 3em 0 ;
+		padding: 0 ;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
