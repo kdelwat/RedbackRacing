@@ -25,6 +25,16 @@
 	height: 0;
 }
 
+#redback-logo {
+	width:100%; 
+}
+
+@media (min-width: 1000px) {
+	#redback-logo {
+		width:700px; 
+	}
+}
+
 /*
 	Solid State by HTML5 UP
 	html5up.net | @ajlkn
